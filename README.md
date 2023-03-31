@@ -12,3 +12,5 @@ BBB-4 byte number
 hh, mm, ss - single byte numbers
 
 [text] - plain text
+
+TCP client on LINUX
